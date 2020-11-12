@@ -1,2 +1,2 @@
 # the_Math_of_Neural_Network
-ok
+is ak
